@@ -33,3 +33,15 @@
 .m2{
     margin-top: 0px;
 }
+.mains2{
+    background: url(images/ser.jpg);
+    background-size: cover;
+    padding:60px;
+    color: white;
+    text-align: center;
+    line-height: 2;
+}
+.m3{
+    font-size: 20px;
+    font-weight: bold;
+}
