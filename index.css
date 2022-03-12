@@ -3,6 +3,22 @@
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 300px;
+    padding: 200px;
     color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.he1{
+    font-size: 30px;
+}
+.he2{
+    font-size:10px;
+    margin-top: -20px;
+}
+#logo{
+    padding-top:50px;
+}
+#mouse{
+    position: absolute;
+    bottom: 0px;  
 }
