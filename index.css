@@ -22,3 +22,14 @@
     position: absolute;
     bottom: 0px;  
 }
+.mains1{
+    text-align: center;
+    line-height: 2;
+}
+.m1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.m2{
+    margin-top: 0px;
+}
