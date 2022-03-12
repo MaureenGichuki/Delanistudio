@@ -1,0 +1,8 @@
+.main{
+    background: url(images/main.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 300px;
+    color: white;
+}
