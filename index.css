@@ -57,13 +57,22 @@
     display: flex;
     justify-content:space-evenly;
     font: 10px;
-    padding: 30px;
+    /* padding-left: 100px; */
+}
+#m61{
+    text-align: center;
 }
 .im1{
     text-align: center;
 }
 #icon{
-    width: 60px;
+    width: 70px;
+}
+#icon1{
+    width: 70px;
+}
+#icon2{
+    width: 70px;
 }
 .mains4{
   justify-content: space-evenly;
@@ -84,6 +93,7 @@
 }
 #port{
     width:150px;
+    margin-left: 20px;
 }
 .mains5{
     background: url(images/mes.jpg);
@@ -130,4 +140,16 @@ footer{
 }
 #pn{
     width:40px;
+}
+#m61{
+    display: none;
+    text-align: center;
+}
+#m62{
+    display:none;
+    text-align: center;
+}
+#m63{
+    display:none;
+    text-align: center;
 }
