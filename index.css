@@ -75,12 +75,12 @@
 }
 .f41{
     display: flex;
-    justify-content:space-evenly;
-    margin-bottom: 50px;
+    justify-content: center;
+    margin-bottom: 20px;
 }
 .f42{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 #port{
     width:150px;
