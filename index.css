@@ -85,3 +85,42 @@
 #port{
     width:150px;
 }
+.mains5{
+    background: url(images/mes.jpg);
+    background-size: cover;
+    color: white;
+    padding-bottom:150px;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.m8{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.form1{
+    display: flex;
+    justify-content: center;
+}
+.form2{
+    justify-content: center;
+}
+::placeholder{
+    color: white;
+}
+.lbl2{
+    background-color: transparent;
+    border-color: white;
+    border-width: thin;
+    height: 30px;
+    width: 25vw;
+    margin-left: 20px;
+}
+.lbl3{
+    background-color: transparent;
+    height: 150px;
+    width: 50vw;
+    border-color: white;
+    border-width: thin;
+    margin-left: 320px;
+}
