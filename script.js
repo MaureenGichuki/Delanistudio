@@ -1,14 +1,15 @@
 $(document).ready(function(){
 
-	$('#icon').click(function(){
+	$('.im1').click(function(){
         $('.ic').toggle();
         $('#m61').toggle();
+       
 	});
-    $('#icon1').click(function(){
+    $('.im2').click(function(){
         $('.ic1').toggle();
         $('#m62').toggle();
     });
-    $('#icon2').click(function(){
+    $('.im3').click(function(){
         $('.ic2').toggle();
         $('#m63').toggle();
     });
