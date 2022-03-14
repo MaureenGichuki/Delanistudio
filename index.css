@@ -25,6 +25,7 @@
 .mains1{
     text-align: center;
     line-height: 2;
+    padding: 30px;
 }
 .m1{
     font-weight: bold;
@@ -36,7 +37,7 @@
 .mains2{
     background: url(images/ser.jpg);
     background-size: cover;
-    padding:60px;
+    padding:70px;
     color: white;
     text-align: center;
     line-height: 2;
@@ -47,6 +48,7 @@
 }
 .mains3{
     justify-content: center;
+    margin: 20px;
 }
 .m5{
     text-align:center;
@@ -55,8 +57,10 @@
 }
 .mains31{
     display: flex;
-    justify-content:space-evenly;
+    text-align: center;
+    justify-content:space-around;
     font: 10px;
+    margin-top: 30px;
     /* padding-left: 100px; */
 }
 #sp{
@@ -70,13 +74,13 @@
     text-align: center;
 }
 #icon{
-    width: 70px;
+    height: 60px;
 }
 #icon1{
-    width: 70px;
+    height: 60px;
 }
 #icon2{
-    width: 70px;
+    height: 60px;
 }
 .mains4{
   justify-content: space-evenly;
@@ -117,7 +121,7 @@
     border-color: white;
     color: white;
     width:200px;
-    margin-left: 500px;
+    margin-left: 550px;
 }
 .m8{
     text-align: center;
@@ -235,4 +239,65 @@ footer{
     text-align: center;
     background-color: white;
     display: none;
+}
+@media screen and (max-width: 500px){
+    .main{
+        background: url(images/main.jpg);
+        background-size:cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        /* padding: 200px; */
+        color: white;
+        text-align: center;
+        font-weight: bold;
+    }
+    .mains3{
+        justify-content: center;
+        margin: 0px;
+    }
+    .mains31{
+        display: block;
+        text-align: center;
+        justify-content:space-around;
+        font: 10px;
+        margin-top:0px;
+    }
+    .f41{
+        display: block;
+        justify-content: center;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .f42{
+        display: block;
+        justify-content: center;
+        text-align: center;
+    }
+    .mains5{
+        background: url(images/mes.jpg);
+        background-size: cover;
+        color: white;
+        /* padding-bottom:150px;
+        padding-top: 50px;
+        margin-top: 50px; */
+    }
+    .form1{
+        display: block;
+        text-align: center;
+    }
+    .form2{
+        text-align: center;
+        display: block;
+    }
+    .lbl3{
+        background-color: transparent;
+        height: 150px;
+        width: 50vw;
+        border-color: white;
+        border-width: thin;
+        margin-left: 0px;
+    }
+    footer{
+        margin-top: 0px;
+    }
 }
