@@ -59,6 +59,10 @@
     font: 10px;
     /* padding-left: 100px; */
 }
+#sp{
+    font-size: 15px;
+    font-weight: bold;
+}
 #m61{
     text-align: center;
 }
@@ -156,23 +160,78 @@ footer{
 #m61{
     display: none;
     text-align: center;
+    line-height: 2;
 }
 #m62{
     display:none;
     text-align: center;
+    line-height: 2;
 }
 #m63{
     display:none;
     text-align: center;
+    line-height: 2;
 }
 .f1i{
-    position: absolute;
+    margin-top: -50%;
+    margin-left: 30px;
+    width: 70%;
     text-align: center;
     background-color: white;
     display: none;
 }
 .f2i{
-    position: absolute;
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+.f3i{
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+.f4i{
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+.f5i{
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+.f6i{
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+.f7i{
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+.f8i{
+    margin: -50%;
+    margin-left: 30px;
+    width: 70%;
     text-align: center;
     background-color: white;
     display: none;
