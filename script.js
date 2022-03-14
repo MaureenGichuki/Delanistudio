@@ -95,10 +95,10 @@ $(document).ready(function(){
     var text = $('#mm1').val();
 
     if(name == ''|| email== '' || text == ''){
-        alert("Invalid! Please make sure to fill in all slots and input correct values on the form");
+        alert("Invalid! Please make sure to fill in all the slots and input correct values on the form");
     }
     else(
-        alert( "Hey" + " " + name + " " + "we have received your message. Thank you for reaching out to us")
+        alert( "Hey" + " " + name + " " + "we have received your message. Thank you for reaching out to us.")
         
     );
     };
